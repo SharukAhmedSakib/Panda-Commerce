@@ -1,0 +1,27 @@
+.carousel-background{
+    background-color: #fceae8;
+}
+.carousel-btn{
+    color: white;
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+}
+
+.price-tag{
+    color: #FF136F;
+}
+
+.panda-bg-orange{
+    background: #ffa500;
+}
+
+.panda-bg-violet{
+    background: #da70d6;
+}
+
+.panda-bg-blue{
+    background: #0000ff;
+}
+
+.categories{
+    font-size: 2.5rem;
+}
